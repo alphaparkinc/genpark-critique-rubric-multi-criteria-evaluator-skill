@@ -1,0 +1,15 @@
+{
+  "name": "genpark-critique-rubric-multi-criteria-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Multi-criteria rubric scorer, qualitative critique synthesizer, and actionable refinement advisor.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "rubric",
+    "critique",
+    "evaluation",
+    "self-refine",
+    "genpark",
+    "mcp"
+  ]
+}
